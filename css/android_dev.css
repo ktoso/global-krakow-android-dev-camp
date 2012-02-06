@@ -1,0 +1,23 @@
+.center {
+  text-align: center;
+}
+
+.frcn {
+  float: right;
+  clear: none;
+}
+
+.copyleft {
+  background: url(/img/copyleft.png) left center no-repeat;
+  padding-left: 20px;
+}
+
+.row {
+  margin-bottom: 3em;
+}
+
+.logo {
+  position: relative;
+  left: 34%;
+  top: -68px;
+}

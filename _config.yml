@@ -1,0 +1,10 @@
+safe:        false
+auto:        true
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+
+pygments:    true
+markdown:    maruku
+permalink:   date
